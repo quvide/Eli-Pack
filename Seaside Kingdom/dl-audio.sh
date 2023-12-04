@@ -1,0 +1,1 @@
+yt-dlp -x --audio-format mp3 https://www.youtube.com/watch?v=XJQ3tl3qoQc -o "audio.mp3"
